@@ -1,6 +1,7 @@
 #Player Sprites by Arks
 #https://arks.itch.io/dino-characters
 #Arks' Twitter: @ScissorMarks
+#yes
 
 import pygame
 
